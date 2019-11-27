@@ -2,7 +2,7 @@
 predicting the income with a more complex dataset. Competition held as a part of our course-work in Trinity College Dublin.
 
 - **Competition Link:** https://www.kaggle.com/c/tcd-ml-comp-201920-income-pred-group/
-- **Final Result: No. 1 on Public and Private Leaderboard. :tw-1f3c6:**
+- **Final Result: No. 1 on Public and Private Leaderboard. :trophy:**
 
 **How I achieved such good result?**
 
